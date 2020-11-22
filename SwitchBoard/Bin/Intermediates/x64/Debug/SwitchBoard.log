@@ -1,0 +1,6 @@
+﻿  ALTER.cpp
+E:\project\SwitchBoard\SwitchBoard\SRC\ALTER.cpp(6,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+E:\project\SwitchBoard\SwitchBoard\SRC\ALTER.cpp(6,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Source.cpp
+  Generating Code...
+  SwitchBoard.vcxproj -> E:\project\SwitchBoard\\Bin\x64\Debug\SwitchBoard.exe
